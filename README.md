@@ -4,7 +4,7 @@ Integrantes: Kevin Duvan Perez Montaguth - 192388
 
 Diseño responsive con Bootstrap 5.
 - Simulación de login con validación de campos.
-- Listado y visualización de productos desde la API [FakeAPI Platzi](https://fakeapi.platzi.com/).
+- Listado y visualización de productos desde la API FakeAPI Platzi
 - Listado y visualización de categorías.
 - Ventanas modales para mostrar detalles de productos y categorías.
 - Código organizado por funcionalidades en archivos JS separados.
